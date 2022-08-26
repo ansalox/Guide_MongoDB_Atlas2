@@ -77,4 +77,23 @@ Luego vamos a DataBase Access para crear el usuario admin
 ![image](https://user-images.githubusercontent.com/54609399/186988382-65f9dbae-e417-486a-bd77-085b8194631b.png)
 
 
+Luego volvemos a database
+
+Damos en connect
+
+![image](https://user-images.githubusercontent.com/54609399/186989521-ca8af1bd-49db-4d9f-9541-4efa0909ba72.png)
+
+![image](https://user-images.githubusercontent.com/54609399/186990002-33091937-67ce-47b1-b2a2-5098cd1306e6.png)
+
+![image](https://user-images.githubusercontent.com/54609399/186990080-d6e01de4-d2fe-4439-88b8-b80970dda79a.png)
+
+Pegamos en compass y reemplazamos el password y agregamos el nombre de la DB
+
+![image](https://user-images.githubusercontent.com/54609399/186990290-fac4bb24-a7a5-4235-86b3-e8c46838b705.png)
+
+y lo mismo reemplazamos en VS Code
+
+![image](https://user-images.githubusercontent.com/54609399/186990487-c14caa93-c0c9-422e-8ff6-6c60608d8479.png)
+
+
 
